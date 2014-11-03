@@ -63,6 +63,7 @@ public class TestDBServlet extends HttpServlet {
 		   out.println("<TD>Name</TD>");
 
 		   out.println("<TD>Company</TD>");
+		   out.println("<TD>Adobe Class</TD>");
 
 		  // out.println("<TD>Website</TD></TR>");
 
